@@ -1,9 +1,6 @@
 # The_purgatory
 The purgatory is a school project. This game has a page on my itch.io https://doriantan.itch.io/the-purgatory
 
-
-The Puragtory is a game create for a school project.
-
 This project was made during the 3rd year lesson on infographics tools, specifically using Unity. It represents the space between life and death, where one must face their worst fears while also going through the 5 stages of grief. Each scene represents one of the stages.
 
 The Purgatory represents the judgment a person goes through to find out whether he deserves Heaven or Hell.
