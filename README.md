@@ -7,4 +7,7 @@ The Purgatory represents the judgment a person goes through to find out whether 
 
 The player has just died, and must now be judged for his actions during life. He will therefore pass through five rooms, representing the five phases of mourning, before ascending to his new life. He must collect one artifact per room to complete the ritual that will allow him to ascend.
 
+# Video demo
+https://youtu.be/-fg34MVoTNk
+
 ![he-arc](https://github.com/Yuminax/The_purgatory/assets/142225992/a68f0ea0-8b20-4214-a5cf-9365ac97e2ad)
